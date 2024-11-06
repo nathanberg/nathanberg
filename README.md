@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Nathan! <br/><a href="https://github.com/nathanberg">Programmer</a>, <a href="https://www.linkedin.com/in/nathan-berg-a958b673/">Cybersecurity Professional</a></h1>
 
-<!--
-**nathanberg/nathanberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🔐 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Building a Cloud SOC/Honeynet in Azure</b>
+  - [Azure Cloud SOC](https://github.com/nathanberg/Azure-Cloud-SOC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Performance Monitor Middleware Gem for Rails</b>
+  - [Rails Performance Monitor](https://github.com/nathanberg/PerformanceMonitor)
+- <b>Simple URL Shortener in Rails</b>
+  - [URL Shortener](https://github.com/nathanberg/URL-Shortener)
+- <b>Implementation the use of CountAPI in Rails</b>
+  - [Count API in Rails](https://github.com/nathanberg/CountAPIRails)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NathanBerg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nathan-berg-a958b673/
