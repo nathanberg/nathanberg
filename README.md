@@ -2,6 +2,8 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
+- <b>Threat Hunting Tabletop</b>
+  - [TOR Threat Hunting Scenario](https://github.com/nathanberg/threat-hunting-tabletop-tor)
 - <b>Building a Cloud SOC/Honeynet in Azure</b>
   - [Azure Cloud SOC](https://github.com/nathanberg/Azure-Cloud-SOC)
 
